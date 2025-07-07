@@ -447,23 +447,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PabloRibeiroRamos\\.nuget\\packages\\": {},
+    "C:\\Users\\pablo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PabloRibeiroRamos\\OneDrive - INVENT\\Documentos\\Projetos\\GerenciadorDeBiblioteca\\GerenciadorDeBiblioteca.sln\\GerenciadorDeBiblioteca.Apresentacao\\GerenciadorDeBiblioteca.Apresentacao.csproj",
+      "projectUniqueName": "C:\\Users\\pablo\\Documents\\Projetos\\GerenciadorDeBiblioteca\\GerenciadorDeBiblioteca.sln\\GerenciadorDeBiblioteca.Apresentacao\\GerenciadorDeBiblioteca.Apresentacao.csproj",
       "projectName": "GerenciadorDeBiblioteca.Apresentacao",
-      "projectPath": "C:\\Users\\PabloRibeiroRamos\\OneDrive - INVENT\\Documentos\\Projetos\\GerenciadorDeBiblioteca\\GerenciadorDeBiblioteca.sln\\GerenciadorDeBiblioteca.Apresentacao\\GerenciadorDeBiblioteca.Apresentacao.csproj",
-      "packagesPath": "C:\\Users\\PabloRibeiroRamos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PabloRibeiroRamos\\OneDrive - INVENT\\Documentos\\Projetos\\GerenciadorDeBiblioteca\\GerenciadorDeBiblioteca.sln\\GerenciadorDeBiblioteca.Apresentacao\\obj\\",
+      "projectPath": "C:\\Users\\pablo\\Documents\\Projetos\\GerenciadorDeBiblioteca\\GerenciadorDeBiblioteca.sln\\GerenciadorDeBiblioteca.Apresentacao\\GerenciadorDeBiblioteca.Apresentacao.csproj",
+      "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pablo\\Documents\\Projetos\\GerenciadorDeBiblioteca\\GerenciadorDeBiblioteca.sln\\GerenciadorDeBiblioteca.Apresentacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\PabloRibeiroRamos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

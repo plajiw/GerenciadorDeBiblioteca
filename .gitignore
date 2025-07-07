@@ -1,4 +1,24 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+
 # Visual Studio caches e arquivos de usuário
 .vs/
 *.suo
 *.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de log e resultados de teste
+*.log
+[Tt]est[Rr]esult*/
+*.trx
+
+# Pacotes e ferramentas
+packages/
+*.nupkg
+project.lock.json
+
+# Outros artefatos comuns
+*.coverage
+*.cache
